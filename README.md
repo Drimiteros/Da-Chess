@@ -3,7 +3,7 @@ My attempt on a basic, in the works, chess game made in C++ and SFML 2.6.0!
 
 ---
 ### ✅ Features
-- All pawn movements (includes even complex ones like en passant, castling & pawn promotrion)
+- All pawn movements (includes even complex ones like en passant, castling & pawn promotion)
 - Basic evaluation system (takes into account material count, piece positioning and total available moves)
 - Basic timer (Automatically stops/starts based on the turn)
 - Piece sounds (boop, bap, pop)
