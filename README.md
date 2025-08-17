@@ -1,5 +1,5 @@
 # Da-Chess
-A basic, in the works, chess game made in C++ and SFML 2.6.0
+My attempt on a basic, in the works, chess game made in C++ and SFML 2.6.0!
 
 ---
 ### ✅ Features
